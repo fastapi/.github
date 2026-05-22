@@ -21,11 +21,7 @@ Discussion: <!-- Link to the GitHub Discussion -->
 <details>
 <summary>AI transcript</summary>
 
-```
-
-Paste here the entire AI transcript
-
-```
+<!-- Paste here the entire AI transcript -->
 
 </details>
 
