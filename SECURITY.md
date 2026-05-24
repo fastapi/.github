@@ -30,6 +30,8 @@ If you find a vulnerability, please report it using [GitHub's private vulnerabil
 
 Please try to be as explicit as possible, describing all the steps and example code to reproduce the security issue.
 
+## AI
+
 If you are using AI-assisted tools or any other type of automated tool, please double check yourself (a human) that the vulnerability is valid before reporting it, and please disclose the use of any tools (AI or otherwise).
 
 Do not submit reports automatically generated (by AI or similar) without a human reviewing it first. As these reports cause a lot of overhead from the maintainers and in most cases are meaningless, this will be considered a [Human Effort Denial of Service](https://tiangolo.com/open-source/contributing/#human-effort-denial-of-service) attack, and will cause users to be blocked and reported.
