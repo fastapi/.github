@@ -36,7 +36,7 @@ repos:
 
       - id: local-ty
         name: ty check
-        entry: uv run ty check typer
+        entry: uv run ty check
         require_serial: true
         language: unsupported
         pass_filenames: false
