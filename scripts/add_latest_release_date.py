@@ -4,7 +4,7 @@ import re
 import sys
 from datetime import date
 
-RELEASE_NOTES_FILE = "docs/release-notes.md"
+RELEASE_NOTES_FILE = "release-notes.md"
 RELEASE_HEADER_PATTERN = re.compile(r"^## (\d+\.\d+\.\d+)\s*(\(.*\))?\s*$")
 
 
