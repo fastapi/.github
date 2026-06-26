@@ -5,7 +5,7 @@ Please start with a GitHub Discussion.
 
 Once a team member asks you to open a PR, create it and link the discussion here.
 
-Typo, grammar and link fixes should be reported in the pinned Discussion thread "✏️ Report typo and link fixes". Please do not open a PR for these yourself.
+Typo, grammar and link fixes should be reported in the pinned Discussion thread "✏️ Report typo, grammar and link fixes". Please do not open a PR for these yourself.
 -->
 
 Discussion: <!-- Link to the GitHub Discussion -->
