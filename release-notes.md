@@ -4,6 +4,7 @@
 
 ### Internal
 
+* 🔧 Update PR template to refer to any (small) docs change. PR [#6](https://github.com/fastapi/.github/pull/6) by [@svlandeg](https://github.com/svlandeg).
 * 🔧 Update PR template to refer to typo discussion thread. PR [#5](https://github.com/fastapi/.github/pull/5) by [@svlandeg](https://github.com/svlandeg).
 * 👷 Simplify pull request workflow triggers. PR [#4](https://github.com/fastapi/.github/pull/4) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Add CI workflows and setup. PR [#2](https://github.com/fastapi/.github/pull/2) by [@tiangolo](https://github.com/tiangolo).
