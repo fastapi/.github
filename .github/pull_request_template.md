@@ -5,7 +5,8 @@ Please start with a GitHub Discussion.
 
 Once a team member asks you to open a PR, create it and link the discussion here.
 
-Typo and link fixes should be reported in the pinned Discussion thread "✏️ Report typo and link fixes". Please do not PR these yourself.
+Typos, grammar issues, broken links and other small docs improvements should be reported in the pinned Discussion thread "✏️ Report small docs improvements, including typos or broken links".
+Please do not open a PR for these yourself.
 -->
 
 Discussion: <!-- Link to the GitHub Discussion -->
