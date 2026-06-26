@@ -5,7 +5,7 @@ Please start with a GitHub Discussion.
 
 Once a team member asks you to open a PR, create it and link the discussion here.
 
-Obvious typo fixes can be made in a PR without starting a discussion.
+Typo and link fixes should be reported in the pinned Discussion thread "✏️ Report typo and link fixes". Please do not PR these yourself.
 -->
 
 Discussion: <!-- Link to the GitHub Discussion -->
@@ -27,7 +27,7 @@ Discussion: <!-- Link to the GitHub Discussion -->
 
 ## Checklist
 
-- [ ] This PR is an obvious typo fix, or it links to a GitHub Discussion for the proposed code change.
+- [ ] This PR links to a GitHub Discussion for the proposed code change.
 - [ ] I added tests for the change.
 - [ ] The new or updated tests fail on the main branch and pass on this PR.
 - [ ] Coverage stays at 100%.
