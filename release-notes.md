@@ -4,6 +4,7 @@
 
 ### Internal
 
+* ⬆️ Upgrade latest-changes to 0.7.1. PR [#11](https://github.com/fastapi/.github/pull/11) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Fix latest-changes checkout target. PR [#10](https://github.com/fastapi/.github/pull/10) by [@tiangolo](https://github.com/tiangolo).
 * ⬆️ Update latest-changes to 0.6.1. PR [#9](https://github.com/fastapi/.github/pull/9) by [@tiangolo](https://github.com/tiangolo).
 * 🔧 Update PR template to refer to any (small) docs change. PR [#6](https://github.com/fastapi/.github/pull/6) by [@svlandeg](https://github.com/svlandeg).
