@@ -4,6 +4,7 @@
 
 ### Internal
 
+* 🔥 Remove the old Latest Changes workflow. PR [#12](https://github.com/fastapi/.github/pull/12) by [@tiangolo](https://github.com/tiangolo).
 * ⬆️ Upgrade latest-changes to 0.7.1. PR [#11](https://github.com/fastapi/.github/pull/11) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Fix latest-changes checkout target. PR [#10](https://github.com/fastapi/.github/pull/10) by [@tiangolo](https://github.com/tiangolo).
 * ⬆️ Update latest-changes to 0.6.1. PR [#9](https://github.com/fastapi/.github/pull/9) by [@tiangolo](https://github.com/tiangolo).
