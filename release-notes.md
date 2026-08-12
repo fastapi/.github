@@ -4,6 +4,7 @@
 
 ### Internal
 
+* 👷 Migrate automatic labels to Latest Changes. PR [#18](https://github.com/fastapi/.github/pull/18) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Remove legacy label check. PR [#17](https://github.com/fastapi/.github/pull/17) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Use GitHub CLI for Git authentication. PR [#16](https://github.com/fastapi/.github/pull/16) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Use PR Push commit identity. PR [#15](https://github.com/fastapi/.github/pull/15) by [@tiangolo](https://github.com/tiangolo).
