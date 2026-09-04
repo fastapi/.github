@@ -1,0 +1,8 @@
+auto-labels:
+  internal:
+    - .github/**
+    - scripts/**
+    - .gitignore
+    - .pre-commit-config.yaml
+    - uv.lock
+    - pyproject.toml

@@ -4,6 +4,13 @@
 
 ### Internal
 
+* 👷 Migrate automatic labels to Latest Changes. PR [#18](https://github.com/fastapi/.github/pull/18) by [@tiangolo](https://github.com/tiangolo).
+* 👷 Remove legacy label check. PR [#17](https://github.com/fastapi/.github/pull/17) by [@tiangolo](https://github.com/tiangolo).
+* 👷 Use GitHub CLI for Git authentication. PR [#16](https://github.com/fastapi/.github/pull/16) by [@tiangolo](https://github.com/tiangolo).
+* 👷 Use PR Push commit identity. PR [#15](https://github.com/fastapi/.github/pull/15) by [@tiangolo](https://github.com/tiangolo).
+* 🔒 Replace pre-commit PAT with PR Push. PR [#13](https://github.com/fastapi/.github/pull/13) by [@tiangolo](https://github.com/tiangolo).
+* 🔥 Remove the old Latest Changes workflow. PR [#12](https://github.com/fastapi/.github/pull/12) by [@tiangolo](https://github.com/tiangolo).
+* ⬆️ Upgrade latest-changes to 0.7.1. PR [#11](https://github.com/fastapi/.github/pull/11) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Fix latest-changes checkout target. PR [#10](https://github.com/fastapi/.github/pull/10) by [@tiangolo](https://github.com/tiangolo).
 * ⬆️ Update latest-changes to 0.6.1. PR [#9](https://github.com/fastapi/.github/pull/9) by [@tiangolo](https://github.com/tiangolo).
 * 🔧 Update PR template to refer to any (small) docs change. PR [#6](https://github.com/fastapi/.github/pull/6) by [@svlandeg](https://github.com/svlandeg).
