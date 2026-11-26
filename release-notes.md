@@ -4,6 +4,7 @@
 
 ### Internal
 
+* 🔒️ Generate GH actions workflow lockfile and bump Zizmor. PR [#22](https://github.com/fastapi/.github/pull/22) by [@YuriiMotov](https://github.com/YuriiMotov).
 * 🔧 Set up Dependabot with group updates and cooldown. PR [#8](https://github.com/fastapi/.github/pull/8) by [@YuriiMotov](https://github.com/YuriiMotov).
 * 👷 Add GH workflow to bump pre-commit hook versions. PR [#7](https://github.com/fastapi/.github/pull/7) by [@YuriiMotov](https://github.com/YuriiMotov).
 * ⬆️ Bump setup-uv action to 10.0.1. PR [#19](https://github.com/fastapi/.github/pull/19) by [@YuriiMotov](https://github.com/YuriiMotov).
